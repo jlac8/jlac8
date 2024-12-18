@@ -2,9 +2,17 @@
 
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
 
-I’m a **Full Stack Developer** with a **Systems Engineering** background (UNI), passionate about leveraging **MERN stack, Cloud Computing, and Data Analysis** to deliver strategic solutions. With a track record of integrating **AI, ML, and Automation** into end-to-end architectures, I’ve helped organizations streamline processes, enhance data-driven decision-making, and ensure scalability across platforms.
+I am a Full Stack Developer with a solid background in Systems Engineering, passionate about merging the **MERN Stack**, **Cloud Computing**, and **Data Analytics** to create scalable and impactful tech solutions. My approach focuses on aligning technology with business processes and strategy, ensuring sustainable innovation.
 
-My experience spans working as an IBM Cloud Technical Advisor, conducting exploratory data analysis in Python, and winning competitions like **BCP’s GenIAthon** and becoming a finalist in the **Huawei Developer Competition LATAM**. I’m committed to building impactful products, mentoring others, and driving sustainable tech innovation.
+As a Cloud Technical Advisor at IBM, I worked with an international team, supporting clients across the Spanish-speaking South American (SSA) region. We often conducted in-depth research on IBM services before crafting tailored architectures for clients. This involved collaborating with global service specialists to ensure optimal solutions.
+
+Additionally, I have led teams as a Scrum Master, assisted in strategic consulting projects, and gained international recognition by winning BCP’s GenIAthon and becoming a finalist in the Huawei Developer Competition LATAM.
+
+**Highlighted Projects:**
+
+- 🚀 AuditFlow (Winner - BCP’s GenIAthon): Developed an audit walkthrougs automation platform using the MERN Stack, Tailwind CSS, and the OpenAI API.
+- 🔬 Melanoma Detection App (Huawei Competition Finalist): Created a cloud-based diagnostic tool using Huawei Cloud, Apache, and Astro.
+- 🌄 ExploraPeru (Make it Real project): Built a tourism promotion platform with the MERN Stack, GitFlow, Stripe integration, Railway deployment, and Cypress testing.
 
 **Core Skills & Tools**
 **Languages:**
@@ -34,12 +42,6 @@ My experience spans working as an IBM Cloud Technical Advisor, conducting explor
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=agile&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-
-**Highlighted Projects:**
-
-- **AuditFlow (Winner of BCP’s GenIAthon):** MERN, Tailwind, OpenAI API for auditing automation.
-- **ExploraPeru:** MERN, GitFlow, Stripe integration, Cypress testing for tourism promotion.
-- **Melanoma Detection App (Huawei Competition Finalist):** Built on Huawei Cloud, Apache, and Astro.
 
 **Let’s Connect:**
 
