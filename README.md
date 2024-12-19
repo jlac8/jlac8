@@ -25,7 +25,6 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff) 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=fff)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=fff)  
 
@@ -36,6 +35,7 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 ![Microsoft Power BI](https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=fff)
 
 #### **Data Analytics, AI & Automation**  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=fff)
@@ -44,6 +44,7 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=fff)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=fff)
 ![UiPath](https://img.shields.io/badge/-UiPath-0046A8?style=flat-square&logo=uipath&logoColor=fff)
+![Rasa Framework](https://img.shields.io/badge/-Rasa%20Framework-5A2FD0?style=flat-square&logo=rasa&logoColor=fff)
 
 #### 🌩️ Cloud Providers & Services Used:**  
 
@@ -58,10 +59,9 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=agile&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitFlow](https://img.shields.io/badge/-GitFlow-31AFFC?style=flat-square&logo=git&logoColor=fff)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=fff)
 ![UML](https://img.shields.io/badge/-UML-ff6f61?style=flat-square)
-![Microsoft Power Platform](https://img.shields.io/badge/-Microsoft%20Power%20Platform-742774?style=flat-square&logo=microsoft-powerapps&logoColor=fff)
+![Microsoft Power Apps](https://img.shields.io/badge/-Microsoft%20Power%20Apps-742774?style=flat-square&logo=microsoft-powerapps&logoColor=fff)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=fff)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=fff)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=fff)
