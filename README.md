@@ -29,7 +29,7 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=fff)
 
-**Databases & Data Tools:**  
+**Databases & Data Tools:**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff)
 ![Erwin](https://img.shields.io/badge/-Erwin-44546A?style=flat-square)
 ![Microsoft Power BI](https://img.shields.io/badge/-Microsoft%20Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=000)
@@ -46,14 +46,10 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 ![UiPath](https://img.shields.io/badge/-UiPath-0046A8?style=flat-square&logo=uipath&logoColor=fff)
 
 **Cloud & DevOps:**  
-![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=fff)  
-IBM Cloud Services: Identity and Access management (IAM), Kubernetes (IKS), Openshift (ROKS), PowerVS, VMware, Virtual Private Cloud (VPC), Portworx Backup, LogDNA, Watson X, Code Engine,     
-![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-FF0000?style=flat-square&logo=huawei&logoColor=fff)  
-Huawei Cloud Services: ModelArts, FunctionGraph, RDS for MySQL, API Gateway, Elastic Load Balancer (ELB), Elastic Cloud Server (ECS), Elatic IP (EIP), Object Storage Service (OBS), AutoScaling (AS)   
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=fff)
-Azure Services: API management (APIM), Azure Databricks  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff)
-AWS services: Amazon EC2, Amazon S3, AWS Lambda
+![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=fff) Identity and Access management (IAM), Kubernetes (IKS), Openshift (ROKS), PowerVS, VMware, Virtual Private Cloud (VPC), Portworx Backup, LogDNA, Watson X, Code Engine.     
+![Huawei Cloud](https://img.shields.io/badge/-Huawei%20Cloud-FF0000?style=flat-square&logo=huawei&logoColor=fff) ModelArts, FunctionGraph, RDS for MySQL, API Gateway, Elastic Load Balancer (ELB), Elastic Cloud Server (ECS), Elatic IP (EIP), Object Storage Service (OBS), AutoScaling (AS)   
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=fff) API management (APIM), Azure Databricks  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=fff) Amazon EC2, Amazon S3, AWS Lambda
 
 **Methodologies & Tools:**  
 ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?style=flat-square&logo=agile&logoColor=fff)
