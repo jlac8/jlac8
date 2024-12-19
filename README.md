@@ -10,7 +10,7 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 - 🔬 Melanoma Detection App (Huawei Competition Finalist): Created a cloud-based diagnostic tool using Huawei Cloud, Apache, and Astro.
 - 🌄 ExploraPeru (Make it Real project): Built a tourism promotion platform with the MERN Stack, GitFlow, Stripe integration, Railway deployment, and Cypress testing.
 
-### **Core Skills**
+### **Skills (From Highest to Lowest Expertise)**
 
 #### **Programming Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) 
