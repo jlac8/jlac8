@@ -70,7 +70,7 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 
 ![BizAgi](https://img.shields.io/badge/-BizAgi-92C83E?style=flat-square)
 ![BPMN](https://img.shields.io/badge/-BPMN-2088FF?style=flat-square)
-![Archimate](https://img.shields.io/badge/-Archimate-808080?style=flat-square)  
+![Archimate](https://img.shields.io/badge/-Archimate-808080?style=flat-square)
 ![Business Model Canvas](https://img.shields.io/badge/-Business%20Model%20Canvas-0984e3?style=flat-square)
 ![Blue Ocean Strategy](https://img.shields.io/badge/-Blue%20Ocean%20Strategy-00BFFF?style=flat-square)
 ![Strategic Planning](https://img.shields.io/badge/-Strategic%20Planning-006400?style=flat-square)
