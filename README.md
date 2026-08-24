@@ -9,7 +9,7 @@ I am a Full Stack Developer with a solid background in Systems Engineering, pass
 - 🚀 AuditFlow (Winner - BCP’s GenIAthon): Developed an audit walkthrougs automation platform using the MERN Stack, Tailwind CSS, and the OpenAI API.
 - 🔬 Melanoma Detection App (Huawei Competition Finalist): Created a cloud-based diagnostic tool using Huawei Cloud, Apache, and Astro.
 - 🌄 ExploraPeru (Make it Real project): Built a tourism promotion platform with the MERN Stack, GitFlow, Stripe integration, Railway deployment, and Cypress testing. 
-mi primer proyecto
+
 
 ### **Skills (From Highest to Lowest Expertise)**
 
